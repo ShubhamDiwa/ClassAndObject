@@ -28,8 +28,8 @@ public class Student12 implements Cloneable{
 
         } catch (CloneNotSupportedException e) {
             throw new RuntimeException(e);
-        } finally {
-
         }
+
+        //dcdc
     }
 }
