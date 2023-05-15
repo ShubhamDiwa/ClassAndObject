@@ -2,13 +2,10 @@ public class Calculation {
 
     // this is the example of inheritance
     int z;
-
     public void addition(int x, int y){
-
         z=x+y;
         System.out.println("Addition of two is "+z);
     }
-
 
     public  void Substraction(int x,int y){
         z=x-y;
@@ -16,7 +13,6 @@ public class Calculation {
     }
 
 }
-
 class multiply extends Calculation {
     public void mul(int x,int y){
         z=x*y;

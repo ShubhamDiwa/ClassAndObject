@@ -2,7 +2,7 @@ abstract class Car {
 
     // abstract method( do not have body )
     public abstract void   carSound();
-    // rwgular method
+    // regular method
     public void Sleep(){
         System.out.print(" Zzz");
     }

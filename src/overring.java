@@ -2,9 +2,6 @@ public class overring {
 
         public  void move(){
             System.out.println(" Animals can  move ");
-
-
-
     }
     static class Dog extends overring{
         public void  move(){

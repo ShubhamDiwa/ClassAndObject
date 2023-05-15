@@ -1,7 +1,6 @@
 public class EncapTest {
     private String name ;
     private String idNum;
-
     private int age;
 
     public String getName() {
